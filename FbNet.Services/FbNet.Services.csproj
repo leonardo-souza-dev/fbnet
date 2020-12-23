@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FbNet.Dominio\FbNet.Dominio.csproj" />
+    <ProjectReference Include="..\FbNet.Interfaces\FbNet.Interfaces.csproj" />
+    <ProjectReference Include="..\FbNet.Repositorio\FbNet.Repositorio.csproj" />
+  </ItemGroup>
+</Project>

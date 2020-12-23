@@ -1,0 +1,52 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbNet.Dominio", "FbNet.Dominio\FbNet.Dominio.csproj", "{9A6FAA1E-814A-4DCF-ABAC-A4745E307984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbNet.Interfaces", "FbNet.Interfaces\FbNet.Interfaces.csproj", "{6ABA9644-0DBF-434F-A822-E3767DE1DC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbNet.Repositorio", "FbNet.Repositorio\FbNet.Repositorio.csproj", "{A57BEC3B-5201-4259-AB9D-66ABA4C01738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbNet.Services", "FbNet.Services\FbNet.Services.csproj", "{D4151B74-2E99-4730-B936-E0E833868EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbNet.Api", "FbNet.Api\FbNet.Api.csproj", "{41E4E640-D0F6-470B-A02A-6207C7B13392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorEmail", "GerenciadorEmail\GerenciadorEmail.csproj", "{7569C195-23F5-4F46-9D41-F09821FDF4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6FAA1E-814A-4DCF-ABAC-A4745E307984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6FAA1E-814A-4DCF-ABAC-A4745E307984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6FAA1E-814A-4DCF-ABAC-A4745E307984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6FAA1E-814A-4DCF-ABAC-A4745E307984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABA9644-0DBF-434F-A822-E3767DE1DC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABA9644-0DBF-434F-A822-E3767DE1DC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABA9644-0DBF-434F-A822-E3767DE1DC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABA9644-0DBF-434F-A822-E3767DE1DC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57BEC3B-5201-4259-AB9D-66ABA4C01738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57BEC3B-5201-4259-AB9D-66ABA4C01738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57BEC3B-5201-4259-AB9D-66ABA4C01738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57BEC3B-5201-4259-AB9D-66ABA4C01738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4151B74-2E99-4730-B936-E0E833868EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4151B74-2E99-4730-B936-E0E833868EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4151B74-2E99-4730-B936-E0E833868EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4151B74-2E99-4730-B936-E0E833868EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E4E640-D0F6-470B-A02A-6207C7B13392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E4E640-D0F6-470B-A02A-6207C7B13392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E4E640-D0F6-470B-A02A-6207C7B13392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E4E640-D0F6-470B-A02A-6207C7B13392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7569C195-23F5-4F46-9D41-F09821FDF4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7569C195-23F5-4F46-9D41-F09821FDF4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7569C195-23F5-4F46-9D41-F09821FDF4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7569C195-23F5-4F46-9D41-F09821FDF4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

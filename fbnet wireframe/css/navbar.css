@@ -1,0 +1,12 @@
+/* navbar */
+.navbar-brand { height: 71px; }
+
+/* menu categorias */
+.dropbtn { padding: 16px;font-size: 16px;border: none;cursor: pointer; }
+.dropdown {	position: relative;display: inline-block; }
+.dropdown-content {	display: none;position: absolute;background-color: #f5f5f5;min-width: 160px;z-index: 1; }
+.dropdown-content a { color: black;padding: 12px 16px;text-decoration: none;display: block;	}
+.dropdown:hover .dropdown-content { display: block;	}
+/* .dropdown:hover .dropbtn { background-color: #3e8e41; } */
+.cat { margin:0 auto;width:100%;background-color:#f5f5f5;text-transform: uppercase;font-weight: bold; }
+.subcat { line-height: 7px; }
